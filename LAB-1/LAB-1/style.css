@@ -1,0 +1,11 @@
+.blue {
+    color: blue;
+    font-style : italic;
+}
+p{
+    color: rgba(0, 255, 0, 0.651);
+}
+
+#bold{
+    font-weight: bold;
+}
